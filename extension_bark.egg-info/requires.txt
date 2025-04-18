@@ -1,0 +1,1 @@
+suno-bark@ https://github.com/rsxdalv/bark/releases/download/v0.1.0/suno_bark-0.1.0-py3-none-any.whl
