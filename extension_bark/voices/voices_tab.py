@@ -11,7 +11,7 @@ from extension_bark.voices.get_npz_files_voices import get_npz_files_voices
 from extension_bark.voices.save_photo import save_photo
 from extension_bark.voices.edit_metadata_ui import edit_metadata_ui
 from tts_webui.history_tab.main import _get_filename, _get_row_index
-from tts_webui.history_tab.open_folder import open_folder
+from tts_webui.utils.open_folder import open_folder
 from tts_webui.utils.gr_reload_button import gr_reload_button
 
 def update_voices_tab():
